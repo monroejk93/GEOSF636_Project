@@ -1,0 +1,28 @@
+Location_Name,Latitude ,Longitude,Site_Type,Agency,2008 Start Date,2008 End Date,2009 Start Date,2009 End Date,2019 Start Date,2019 End Date,2020 Start Date,2020 End Date,Current_Status,Notes
+First_Bridge_Sonde_2020,64.89768,-146.41272,DS5 Hydrolab,UAF,,,,,,,7/6/2020,8/10/2020,Retreived 10/2/20.  Redeployed 10/8/20,
+Mile28_Sonde_2020,64.87647,-146.73572,DS5 Hydrolab,UAF,,,,,,,7/6/2020,9/20/2020,Retreived 10/2/20,
+Benson_Hydrolab_DS1,64.89848,-146.63785,DS5 Hydrolab,UAF,6/1/2008,9/24/2008,5/11/2009,9/25/2009,,,,,Historical data,Data from 2008 and 2009
+Benson_Hydrolab_DS2,64.88078,-146.72267,DS5 Hydrolab,UAF,6/29/2008,9/24/2008,5/11/2009,9/25/2009,,,,,Historical data,Data from 2008 and 2009
+Benson_Hydrolab_DS3,64.81753,-147.10455,DS5 Hydrolab,UAF,6/29/2008,9/28/2008,5/12/2009,9/25/2009,,,,,Historical data,Data from 2008 and 2009
+Benson_Hydrolab_DS4,64.80422,-147.13168,DS5 Hydrolab,UAF,7/9/2008,8/4/2008,5/12/2009,9/25/2009,,,,,Historical data,Data from 2008 and 2009
+Mile28_Logger,64.87738,-146.73552,Temp_Logger,UAF,,,,,,,,,Retreived 10/2/20,re-deployed 10/8/20 4:25 pm
+Wegner_Creek_Logger,65.0744,-146.19381,Temp_Logger,SFR,,,,,,,,,Retrieved 10/8/20,pull in oct 2020
+Crawford_Creek_Logger,64.89395,-146.41737,Temp_Logger,UAF,,,,,,,,,Retrieved 10/8/20,
+Burned_AF2_Logger,64.89415,-146.54948,Temp_Logger,UAF,,,,,,,,,Retrieved 10/8/20,
+Burned_AF3_Logger,64.89535,-146.5441,Temp_Logger,UAF,,,,,,,,,Retrieved 10/8/20,
+Rock_Creek_Logger,64.90359,-146.3427,Temp_Logger,UAF,,,,,,,,,Retrieved 10/8/20,
+Unburned2_Logger,64.90798,-146.33844,Temp_Logger,UAF,,,,,,,,,"Retrieved 10/8/20.  Corrupt .hobo file, awaiting response from Onset",
+Blueberry_Creek_Logger,64.90887,-146.3352,Temp_Logger,UAF,,,,,,,,,Retrieved 10/8/20,
+Burned_AF1_Logger,64.89536,-146.52519,Temp_Logger,UAF,,,,,,,,,Retrieved 10/8/20,
+Unburned3_Logger,64.90505,-146.3436,Temp_Logger,UAF,,,,,,,,,Retrieved 10/8/20,
+Mastadon Burned,64.86466,-146.38884,Temp_Logger,UAF,,,,,,,,,Retreived 10/2/20,
+Mastadon Unburned,64.86488,-146.38882,Temp_Logger,UAF,,,,,,,,,Retreived 10/2/20,
+Third_Bridge_Logger,64.944048,-146.251848,Temp_Logger,SFR,,,,,,,,,Deployed,leave in oct 2020
+First_Bridge_LightTemp_Logger,64.897093,-146.412343,Light_And_Temperature_Logger,SFR,,,,,,,,,Retrieved Fall 2019,Deployed in 2019 only
+First_Bridge_HOBO_Logger,64.895317,-146.418495,Temp_Logger,SFR,,,,,,,,,Deployed,Downloaded 10/8/20 at 3:30 pm.  Two loggers SN # 10824645 and # 10537875.  Note: original .hobo files had erroneous date/time (~2030).  Corrected bassed on known download date/time in CSV file.
+First_Bridge_Slough,64.898152,-146.408548,Temp_Logger,SFR,,,,,,,,,Retrieved 10/8/20,pull in oct 2020
+Little_Chena,64.856369,-147.404144,Temp_Logger,SFR,,,,,,,,,Deployed,Downloaded 10/19/20.  Frozen bank ice.
+Loftus_Road,64.84162,-147.842797,Temp_Logger,UAF,,,,,,,,,Deployed,Unable to locate 10/21/20; E. Schoen will download in Oct. 2020.  Coordinates appx. from map
+Moose_Creek_Dam,64.79731,-147.19109,Temp_Logger,UAF,,,,,,,,,Retrieved 10/19/20,Attempted to download 10/19/20.  Failure message on HOBO shuttle.  Sending to Onset technical support.  Likely dead battery in both units (10718924 and 10537882).
+Nordale,64.84742,-147.40811,Temp_Logger,UAF,,,,,,,,,Deployed,Downloaded 10/19/20.  Frozen bank ice.
+Cripple_Creek,64.83597,-147.88547,Temp_Logger,UAF,,,,,,,,,Deployed,Attempted to download 10/21/20; cable was frozen on to ice
